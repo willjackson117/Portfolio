@@ -1,2 +1,2 @@
-# Portfolio
-This is a portfolio of my projects
+# Portfolio - William Jackson
+Welcome! This is a portfolio of my projects
